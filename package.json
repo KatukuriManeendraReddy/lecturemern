@@ -7,9 +7,12 @@
   "description": "\"i am developing fullstack development app\"",
   "version": "1.0.0",
   "main": "myapp.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
   "scripts": {
-    "test": "node myapp.js"
+    "test": "node myapp.js",
+    "startmon":"nodemon myapp.js"
   },
   "keywords": [
     "\"this",
