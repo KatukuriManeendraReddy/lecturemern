@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.3"
+  },
+  "name": "mernstack",
+  "description": "\"i am developing fullstack development app\"",
+  "version": "1.0.0",
+  "main": "myapp.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node myapp.js"
+  },
+  "keywords": [
+    "\"this",
+    "is",
+    "myapp\""
+  ],
+  "author": "mani",
+  "license": "ISC"
+}
